@@ -5,4 +5,4 @@
 - head over to https://hotmailbox.me and create and account, add funds and put your API key in config
 - run ``python3 bot.py`` in your terminal
 
-![alt text]([http://url/to/img.png](https://media.discordapp.net/attachments/974026855776649248/979188889271029790/Screenshot_2022-05-25_20-00-11.png?width=1116&height=467))
+https://media.discordapp.net/attachments/974026855776649248/979188889271029790/Screenshot_2022-05-25_20-00-11.png?width=1116&height=467
