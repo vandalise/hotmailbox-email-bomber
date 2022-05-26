@@ -1,8 +1,5 @@
-# hotmailbox-email-bomber
-Email Bomb your victims with hotmailbox API
-
+# Email Bomber
+- With this tool you can mass send emails tool your victim using hotmailbox API
 ## Setup
-colorama, threading, requests, smtplib, random, string, json, os, sys
-Make sure all the above modules are installed on python3
-Put your hotmailbox API key in config.json
-python3 bot.py
+- head over to https://hotmailbox.me and create and account, add funds and put your API key in config
+- run ``python3 bot.py`` in your terminal
