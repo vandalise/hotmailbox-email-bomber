@@ -1,3 +1,4 @@
+#dont skid plz
 from colorama import Fore
 import threading
 import requests
